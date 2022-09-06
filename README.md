@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **farukozt09@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://bit.ly/3wWbjQ4)
+- 📄 Know about my experiences (Resume) <b>https://bit.ly/3wWbjQ4</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

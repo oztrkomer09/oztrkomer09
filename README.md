@@ -27,5 +27,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=oztrkomer09&show_icons=true&locale=en&layout=compact" alt="oztrkomer09" />
+<p><img align="left" width="400" height="110"  src="https://github-readme-stats.vercel.app/api/top-langs?username=oztrkomer09&show_icons=true&locale=en&layout=compact" alt="oztrkomer09" />
 &nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=oztrkomer09&show_icons=true&locale=en" alt="oztrkomer09" /></p>

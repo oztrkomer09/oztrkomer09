@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **farukozt09@gmail.com**
 
-- 📄 Know about my experiences (Resume) <b>https://bit.ly/3wWbjQ4</b>
+- 📄 Know about my experiences (Resume) <b>https://bit.ly/3EaxHcM
 
 - ⚡ Fun fact: **I'm in love with CSS**
 

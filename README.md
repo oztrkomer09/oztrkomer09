@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I'm in love with CSS**
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

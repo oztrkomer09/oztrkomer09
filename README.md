@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">Currently a CENG student and a passionate Front-End Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
 
 

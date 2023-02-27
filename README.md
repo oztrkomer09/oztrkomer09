@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences (Resume) <b>https://bit.ly/3xVmjxg
 
-- ⚡ Fun fact: **I'm in love with CSS**
+- ⚡ Fun fact: **I'm in love with Tailwind CSS**
 
 
 <h3 align="left">Connect with me:</h3>

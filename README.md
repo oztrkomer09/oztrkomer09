@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **farukozt09@gmail.com**
+- 📫 How to reach me: **farukozt09@gmail.com**
 
 - 📄 Know about my experiences (Resume) <b>https://bit.ly/3xVmjxg
 

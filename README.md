@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Currently a CENG student and a passionate Front-End Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&center=true&width=466&lines=Hi+there+%F0%9F%91%8B%2C+I'm+%C3%96mer;I'm+CENG+student+and+Front-End+Dev.)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475uartle9uc7bg4xiit947ocb3zj05tdp9zcva0nu&rid=giphy.gif&ct=g">
 
 

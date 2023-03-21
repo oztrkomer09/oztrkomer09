@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.JS and Typescript**
 
 - 📫 How to reach me: **farukozt09@gmail.com**
 
